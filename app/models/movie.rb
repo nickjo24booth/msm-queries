@@ -13,5 +13,5 @@
 #  director_id :integer
 #
 class Movie < ApplicationRecord
-  #Stopped at 31:30
+ 
 end
